@@ -1,0 +1,7 @@
+{
+  "name": "meba",
+  "description": "A simple PHP app",
+  "require": {
+    "php": "7.4.*"
+  }
+}
